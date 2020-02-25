@@ -90,15 +90,17 @@ img{
   }
 }
 /* sezione why-----------------------------------------------*/
- /* @media screen and (min-width: 420px){
+  /* @media screen and (min-width: 420px){
   #why .row > .first,
   #why .row > .second,
   #why .row > .third {
     width: 33.3%;
     margin-top: 80px;
     float: left;
+    padding-bottom: 20px;
   }
-  .row{
-    background-color: #f9f9f9;
+
+  hr{
+    display: none;
   }
 } */
