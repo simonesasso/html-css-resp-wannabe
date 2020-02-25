@@ -83,10 +83,17 @@ img{
   }
   /* generali-------------------------------- */
   .row{
-    background-color: #f9f9f9;
+    /* background-color: #f9f9f9; */
+    width: 100%;
   }
   div{
-    font-size: 140%;
+    font-size: 120%;
+  }
+  img{
+    height: 140px;
+  }
+  .clear{
+    display: none;
   }
 }
 /* sezione why-----------------------------------------------*/
